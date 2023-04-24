@@ -62,4 +62,4 @@ namespace StocksApp.Controllers
             return View(stockMaster);    
         }
     }
-}
+}   
